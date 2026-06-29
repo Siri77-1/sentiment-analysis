@@ -1,0 +1,5 @@
+Flask
+textblob
+pandas
+scikit-learn
+numpy
