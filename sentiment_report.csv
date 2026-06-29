@@ -1,0 +1,14 @@
+id,text,sentiment,polarity,created_at
+7,im brave,Positive 😊,0.8,2026-06-15 10:18:51
+8,Amazing product,Positive 😊,0.6000000000000001,2026-06-15 10:53:12
+9,Bad service,Negative 😞,-0.6999999999999998,2026-06-15 10:53:12
+10,Excellent quality,Positive 😊,1.0,2026-06-15 10:53:12
+11,Average experience,Negative 😞,-0.15,2026-06-15 10:53:12
+12,Very poor support,Negative 😞,-0.52,2026-06-15 10:53:12
+13,Loved it,Positive 😊,0.7,2026-06-15 10:53:12
+14,Amazing product,Positive 😊,0.6000000000000001,2026-06-15 11:12:03
+15,Bad service,Negative 😞,-0.6999999999999998,2026-06-15 11:12:03
+16,Excellent quality,Positive 😊,1.0,2026-06-15 11:12:03
+17,Average experience,Negative 😞,-0.15,2026-06-15 11:12:03
+18,Very poor support,Negative 😞,-0.52,2026-06-15 11:12:03
+19,Loved it,Positive 😊,0.7,2026-06-15 11:12:03

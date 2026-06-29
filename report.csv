@@ -1,0 +1,23 @@
+id,user_id,text,sentiment,polarity,created_at
+5,sri,"very good
+",Positive 😊,0.9099999999999999,2026-06-15 12:59:24
+6,sri,good,Positive 😊,0.7,2026-06-15 13:00:20
+7,rani,7,Neutral 😐,0.0,2026-06-29 09:50:21
+8,rani,8,Neutral 😐,0.0,2026-06-29 09:50:21
+9,rani,9,Neutral 😐,0.0,2026-06-29 09:50:21
+10,rani,10,Neutral 😐,0.0,2026-06-29 09:50:21
+11,rani,11,Neutral 😐,0.0,2026-06-29 09:50:21
+12,rani,12,Neutral 😐,0.0,2026-06-29 09:50:21
+13,rani,13,Neutral 😐,0.0,2026-06-29 09:50:21
+14,rani,14,Neutral 😐,0.0,2026-06-29 09:50:21
+15,rani,15,Neutral 😐,0.0,2026-06-29 09:50:21
+16,rani,16,Neutral 😐,0.0,2026-06-29 09:50:21
+17,rani,17,Neutral 😐,0.0,2026-06-29 09:50:21
+18,rani,18,Neutral 😐,0.0,2026-06-29 09:50:21
+19,rani,19,Neutral 😐,0.0,2026-06-29 09:50:21
+20,rani,Amazing product,Positive 😊,0.6000000000000001,2026-06-29 09:51:15
+21,rani,Bad service,Negative 😞,-0.6999999999999998,2026-06-29 09:51:15
+22,rani,Excellent quality,Positive 😊,1.0,2026-06-29 09:51:15
+23,rani,Average experience,Negative 😞,-0.15,2026-06-29 09:51:15
+24,rani,Very poor support,Negative 😞,-0.52,2026-06-29 09:51:15
+25,rani,Loved it,Positive 😊,0.7,2026-06-29 09:51:15
